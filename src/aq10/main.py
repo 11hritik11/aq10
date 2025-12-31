@@ -1,3 +1,3 @@
-name = ["shavya" , "aayush", "kalyan", "aarjan", "suyog", "pravesh", "siddhant", "prajwol", "maski"]
+name = ["kalyan", "shavya", "aarjan", "aayush", "siddhant", "maski", "pravesh" ,"prajwol", "suyog", "hritik"]
 for i in list(name):
-    print(f"{i} ko puti")
+    print(f"{i} is a bitch")
